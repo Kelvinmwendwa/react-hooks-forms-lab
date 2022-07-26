@@ -16,7 +16,7 @@ function Item({ name, category }) {
         onClick={handleAddToCartClick}
       >
         {isInCart ? "Remove From" : "Add to"} Cart
-      </button>
+      </button>zzzzz
     </li>
   );
 }
